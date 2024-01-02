@@ -1,4 +1,7 @@
 import React from 'react';
+import resumePDF from './resume.pdf';
+
+
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -12,7 +15,7 @@ const about = {
   role: 'Full Stack Sofware Developer',
   description: ' ',
     
-  resume: 'https://example.com',
+  resume: resumePDF,
   social: {
     linkedin: 'https://www.linkedin.com/in/martin-islas/',
     github: 'https://github.com/martinislas',
