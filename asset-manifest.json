@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/martinislas/static/css/main.33580cd1.chunk.css",
-    "main.js": "/martinislas/static/js/main.bc9022e2.chunk.js",
-    "main.js.map": "/martinislas/static/js/main.bc9022e2.chunk.js.map",
+    "main.css": "/martinislas/static/css/main.bfacb663.chunk.css",
+    "main.js": "/martinislas/static/js/main.6bedf21e.chunk.js",
+    "main.js.map": "/martinislas/static/js/main.6bedf21e.chunk.js.map",
     "runtime-main.js": "/martinislas/static/js/runtime-main.ee819189.js",
     "runtime-main.js.map": "/martinislas/static/js/runtime-main.ee819189.js.map",
     "static/js/2.9785ea19.chunk.js": "/martinislas/static/js/2.9785ea19.chunk.js",
     "static/js/2.9785ea19.chunk.js.map": "/martinislas/static/js/2.9785ea19.chunk.js.map",
     "index.html": "/martinislas/index.html",
-    "static/css/main.33580cd1.chunk.css.map": "/martinislas/static/css/main.33580cd1.chunk.css.map",
-    "static/js/2.9785ea19.chunk.js.LICENSE.txt": "/martinislas/static/js/2.9785ea19.chunk.js.LICENSE.txt"
+    "static/css/main.bfacb663.chunk.css.map": "/martinislas/static/css/main.bfacb663.chunk.css.map",
+    "static/js/2.9785ea19.chunk.js.LICENSE.txt": "/martinislas/static/js/2.9785ea19.chunk.js.LICENSE.txt",
+    "static/media/resume.a288361e.pdf": "/martinislas/static/media/resume.a288361e.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.ee819189.js",
     "static/js/2.9785ea19.chunk.js",
-    "static/css/main.33580cd1.chunk.css",
-    "static/js/main.bc9022e2.chunk.js"
+    "static/css/main.bfacb663.chunk.css",
+    "static/js/main.6bedf21e.chunk.js"
   ]
 }
